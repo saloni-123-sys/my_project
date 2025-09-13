@@ -26,5 +26,5 @@ The objective is to analyze whether trading behavior aligns or diverges from mar
 See **ds_report.pdf** for summary and key insights.
 
 ## Links
-- Google Colab:[ https://drive.google.com/file/d/1wpBx06LMFeaCAZog6-WJIO5dNUKqS_kC/view?usp=sharing ]
+- Google Colab:https://colab.research.google.com/drive/1VopDXJF3TPicofCOfFTx3WjUuSIW-hlH#scrollTo=w7SvTG4dTrJQ
 - GitHub Repo:https://github.com/saloni-123-sys/my_project
