@@ -8,5 +8,23 @@ This project explores the relationship between **trader behavior** and **market 
 The objective is to analyze whether trading behavior aligns or diverges from market sentiment and uncover hidden trends that could inform better trading strategies.
 
 ---
+## Folder Structure
+- `notebook_1.ipynb` → First analysis notebook (EDA)
+- `notebook_2.ipynb` → Second notebook (Modeling / extra work)
+- `csv_files/` → All CSV datasets
+- `outputs/` → Plots, graphs, and images
+- `ds_report.pdf` → Final report with insights
+- `README.md` → Instructions and notes
 
-##  Project Structure
+## How to Run
+1. Open the notebooks in Google Colab:
+   - [Notebook 1](https://github.com/saloni-123-sys/my_project/blob/main/Notebook1.ipynb)
+   2. Data files are inside `csv_files/`.
+3. Graphs and charts are inside `outputs/`.
+
+## Final Report
+See **ds_report.pdf** for summary and key insights.
+
+## Links
+- Google Colab: https://drive.google.com/file/d/1wpBx06LMFeaCAZog6-WJIO5dNUKqS_kC/view?usp=sharing 
+- GitHub Repo:https://github.com/saloni-123-sys/my_project
