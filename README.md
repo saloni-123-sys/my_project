@@ -1,4 +1,5 @@
 # Trader Behavior vs Market Sentiment Analysis
+Author-Saloni
 
 
 This project explores the relationship between **trader behavior** and **market sentiment** (Fear & Greed Index) using two datasets:
